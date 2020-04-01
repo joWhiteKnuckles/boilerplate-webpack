@@ -1,0 +1,12 @@
+//
+// Common
+@import './styles/common/variables.scss';
+
+
+//
+// Partials
+@import './styles/partials/header.scss';
+
+body {
+  background-color: rebeccapurple;
+}
